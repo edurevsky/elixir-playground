@@ -1,4 +1,4 @@
-defmodule ForEach do
+defmodule Mapeador do
   def inicia(colecao, funcao) do
     executa(colecao, funcao, [])
   end
